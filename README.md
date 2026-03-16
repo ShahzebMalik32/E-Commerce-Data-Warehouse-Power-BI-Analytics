@@ -7,19 +7,6 @@
 A complete **Data Warehousing & Business Intelligence pipeline** built using **PostgreSQL and Power BI**.
 The project demonstrates the implementation of a modern analytics architecture including **ETL/ELT pipelines, Star Schema modeling, OLAP queries, MOLAP aggregations, query optimization, and interactive dashboards**.
 
----
-
-# 🚀 Project Highlights
-
-✔ Designed a **Star Schema Data Warehouse** using PostgreSQL
-✔ Implemented **ETL and ELT pipelines** for structured data processing
-✔ Built **OLAP analytical queries** for multidimensional analysis
-✔ Created **MOLAP pre-aggregation tables** to accelerate queries
-✔ Evaluated **join algorithm performance** using `EXPLAIN ANALYZE`
-✔ Developed an **interactive Power BI dashboard using DAX**
-
----
-
 # 🎓 Academic Project Overview
 
 This project was developed as part of a **Data Warehousing & Business Intelligence** university course.
