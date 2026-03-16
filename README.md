@@ -21,25 +21,26 @@ The objective was to design and implement a complete analytical system including
 ---
 
 ## 🧱 System Architecture
-
-The system follows a modern layered BI architecture:
-
-Source Data (CSV / Raw Tables)
-        │
-        ▼
-Staging Layer (PostgreSQL)
-        │
-        ▼
-ETL / ELT Processing Layer
-        │
-        ▼
-Data Warehouse (Star Schema)
-        │
-        ├── OLAP Queries
-        ├── MOLAP Aggregation Tables
-        │
-        ▼
-Power BI Semantic Model & Dashboard
+System Architecture
+│
+├── Source Data
+│   ├── CSV Files
+│   └── Raw Tables
+│
+├── Staging Layer
+│   └── PostgreSQL
+│
+├── ETL / ELT Processing Layer
+│
+├── Data Warehouse
+│   └── Star Schema
+│
+├── Analytics Layer
+│   ├── OLAP Queries
+│   └── MOLAP Aggregation Tables
+│
+└── Visualization Layer
+    └── Power BI Semantic Model & Dashboard
 
 This architecture ensures:
 
