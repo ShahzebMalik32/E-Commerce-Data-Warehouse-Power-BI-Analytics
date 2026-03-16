@@ -305,7 +305,7 @@ The Power BI dashboard provides **interactive analytics and business insights**.
 
 ### KPI Metrics
 
-![Dashboard advances_analytics](images/advanced_analytics.png)
+![Dashboard advances_analytics](images/advanced_analytics_overview.png)
 
 ---
 
