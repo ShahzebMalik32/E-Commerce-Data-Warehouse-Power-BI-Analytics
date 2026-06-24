@@ -347,7 +347,7 @@ Run the SQL scripts in the following order:
 
 # 👤 Author
 
-**Ali Ahmad**
+**Ali Ahmad & Shahzeb Imran**
 BS Data Science
 
 ---
